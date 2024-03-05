@@ -12,6 +12,7 @@ public class Demo2 {
 		list.add(42);
 		list.add(13);
 		System.out.println(list);
+		System.out.println("List of data is>>"+list);
 
 	}
 
